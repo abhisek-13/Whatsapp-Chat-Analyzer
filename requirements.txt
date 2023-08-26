@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
 wordcloud
-collections
 emoji
 urlextract
