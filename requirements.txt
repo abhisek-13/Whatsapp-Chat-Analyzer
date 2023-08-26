@@ -3,3 +3,4 @@ scikit-learn
 wordcloud
 emoji
 urlextract
+seaborn
